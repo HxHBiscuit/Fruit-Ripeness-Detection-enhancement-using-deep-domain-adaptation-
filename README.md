@@ -8,3 +8,4 @@ datasets are:
 - can use DCGAN to generate images for the source or target datset
 - may use cycle GAN to create the low quality image dataset from the source dataset
 
+## referenced Adapt deep domain adaptaion documentaion (https://adapt-python.github.io/adapt/examples/Office_example.html)
